@@ -9,7 +9,7 @@ def read(fname):
 setup(
     name="django-url-shortening",
     version="1.0.0",
-    url='https://github.com/doubletapp/django-url-shortening',
+    url='https://github.com/Balkeerat/django-url-shortening',
     license='BSD',
     description="A URL shortening app for Django.",
     long_description=read('README.rst'),
